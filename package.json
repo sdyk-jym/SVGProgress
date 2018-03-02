@@ -1,0 +1,23 @@
+{
+  "name": "svg-progress",
+  "version": "0.0.1",
+  "description": "Use svg to generate ring progress bar(Thanks Google for translation).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdyk-jym/SVGProgress.git"
+  },
+  "keywords": [
+    "svg",
+    "progress"
+  ],
+  "author": "miniradish <qiqislh@guoyonglei.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdyk-jym/SVGProgress/issues"
+  },
+  "homepage": "https://github.com/sdyk-jym/SVGProgress#readme"
+}
