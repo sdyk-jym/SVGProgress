@@ -1,8 +1,11 @@
-# SVGProgress
-使用SVG生成圆环进度条
+# svg-progress
+![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)
+![MIT](https://img.shields.io/cocoapods/l/Alamofire.svg?style=flat)
+![npm](https://img.shields.io/badge/npm-v0.0.3-519dd9.svg)
+>使用SVG生成圆环进度条
 # Install
-```
-npm install svg-progress -S
+```bash
+npm i svg-progress -S
 ```
 # Quick Start
 ```javascript
