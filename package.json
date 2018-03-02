@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sdyk-jym/SVGProgress.git"
+    "url": "git+https://github.com/sdyk-jym/svg-progress.git"
   },
   "keywords": [
     "svg",
@@ -17,7 +17,7 @@
   "author": "miniradish <qiqislh@guoyonglei.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sdyk-jym/SVGProgress/issues"
+    "url": "https://github.com/sdyk-jym/svg-progress/issues"
   },
-  "homepage": "https://github.com/sdyk-jym/SVGProgress#readme"
+  "homepage": "https://github.com/sdyk-jym/svg-progress#readme"
 }
