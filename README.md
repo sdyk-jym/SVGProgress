@@ -8,7 +8,10 @@ npm install svg-progress -S
 ```javascript
 import SvgProgress from 'svg-progress'
 
-new SvgProgress()
+const svgProgress = new SvgProgress()
+
+svgProgress.percent = 30
+svgProgress.update()
 ```
 # Parameter
 ```javascript
