@@ -2,7 +2,7 @@
 使用SVG生成圆环进度条
 # Install
 ```
-npm install element-ui -S
+npm install svg-progress -S
 ```
 # Quick Start
 ```javascript
