@@ -31,5 +31,4 @@ new SvgProgress({
 })
 ```
 # Example
-<img src="./demo.svg">
-![demo](./demo.svg)
+<img src="./demo.png">
