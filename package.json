@@ -1,6 +1,6 @@
 {
   "name": "svg-progress",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Use svg to generate ring progress bar(Thanks Google for translation).",
   "main": "index.js",
   "scripts": {
