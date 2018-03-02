@@ -1,7 +1,7 @@
 # svg-progress
-![JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)
-![MIT](https://img.shields.io/cocoapods/l/Alamofire.svg?style=flat)
-![npm](https://img.shields.io/badge/npm-v0.0.3-519dd9.svg)
+![JavaScript](https://img.shields.io/badge/language-JavaScript-f1e05a.svg)
+![npm](https://img.shields.io/badge/npm-v0.0.3-519dd9.svg)[https://www.npmjs.com/package/svg-progress]
+![MIT](https://img.shields.io/badge/license-MIT-yellow.svg)[https://github.com/sdyk-jym/svg-progress/blob/master/LICENSE]
 >使用SVG生成圆环进度条
 # Install
 ```bash
